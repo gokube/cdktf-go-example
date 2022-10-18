@@ -6,6 +6,7 @@ terraform
 nodejs ts
 cdktf
 golang 1.18+
+dockerd
 
 ### 核心步骤
 1、cdktf init --template=go --local
